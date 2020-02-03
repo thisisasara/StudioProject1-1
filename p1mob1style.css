@@ -9,19 +9,20 @@
 h1{
     font-weight: 900;
     font-style: italic;
-    font-size: 13vw;
-    line-height: 14vw; 
-    margin-left: 18vw;
+    font-size: 14vw;
+    line-height: 15vw; 
+    margin-left: 17.5vw;
+    margin-bottom: 6vw;
 }
 
 h2{
     font-weight: 500;
     font-style: normal;
-    font-size: 1.4vw;
+    font-size: 1.6vw;
     line-height:none;
-    margin-left: 18vw;
-    margin-top: 7vw;
-    margin-bottom: -2.4vw;
+    margin-left: 17vw;
+    margin-top: 5.3vw;
+    margin-bottom: -2vw;
 
 }
 
@@ -43,8 +44,8 @@ h3{
     font-weight: 300;
     font-style: italic;
     font-size: 1.2vw;
-    margin-bottom: 1.7vw;
     margin-top: 5vw;
+    line-height: 3vw;
 
 }
 
@@ -54,6 +55,14 @@ h4{
     font-size: 1.8vw;
     line-height: 2.5vw;
 
+}
+em{
+    font-style: normal;
+    font-weight: 400;
+}
+
+a{
+    font-weight: 300;
 }
 
 
@@ -93,7 +102,11 @@ h4{
 
 }
 
-
+c{
+    font-weight: 900;
+    margin-left: 0.3vw;
+    margin-right: 0.15vw;
+}
 
 
 .margin{
@@ -102,5 +115,11 @@ h4{
     font-size: 1.5vw;
     font-weight: 500;
     margin-top: 15vw;
+}
+
+b{
+    font-weight: 900;
+    margin-left: -0.1vw;
+    margin-right: 0.2vw;
 }
 
